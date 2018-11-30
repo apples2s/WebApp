@@ -4,17 +4,7 @@
   margin: 50px 0 0 50px
 }
 .slogon{
-  font-family: serif;
-  font-size: 5.3em;
-  font-weight: bold;
-  line-height: 1.3em;
-  letter-spacing: -2;
-  color:#b5d5f1;
-  margin-left: 50px;
-  margin-top: 100px;
-  text-shadow:4px 4px 10px #303030;
-  -webkit-text-shadow:4px 4px 10px #303030;
-  -moz-text-shadow:4px 4px 10px #303030;
+  
 }
 .moon{
   float:right;
