@@ -1,0 +1,17 @@
+
+
+@font-face { font-family: 'NotoSansCJKkr';
+}
+
+
+body,p,div{
+  margin:0;
+
+}
+.bg_gradient {
+  width:100%;
+  height:100%;
+  background-image: linear-gradient(#7559b0, #334893);
+  /* background-image: url( "images/splash/bg1.png") ; */
+  /* background-repeat: repeat-x; */
+}
